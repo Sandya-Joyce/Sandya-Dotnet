@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ebfc94e-3855-4700-81f7-25061f4359f9": {
+      "ProjectGuid": "6ebfc94e-3855-4700-81f7-25061f4359f9",
+      "DisplayName": "Hello-dotnet",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\obj\Debug\net6.0\Hello-dotnet.csproj.AssemblyReference.cache
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\obj\Debug\net6.0\Hello-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\obj\Debug\net6.0\Hello-dotnet.AssemblyInfoInputs.cache
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\obj\Debug\net6.0\Hello-dotnet.AssemblyInfo.cs
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\obj\Debug\net6.0\Hello-dotnet.csproj.CoreCompileInputs.cache
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\bin\Debug\net6.0\Hello-dotnet.exe
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\bin\Debug\net6.0\Hello-dotnet.deps.json
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\bin\Debug\net6.0\Hello-dotnet.runtimeconfig.json
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\bin\Debug\net6.0\Hello-dotnet.dll
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\bin\Debug\net6.0\ref\Hello-dotnet.dll
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\bin\Debug\net6.0\Hello-dotnet.pdb
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\obj\Debug\net6.0\Hello-dotnet.dll
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\obj\Debug\net6.0\ref\Hello-dotnet.dll
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\obj\Debug\net6.0\Hello-dotnet.pdb
+C:\Sandya\Dev\Learning-Dotnet\Hello-dotnet\obj\Debug\net6.0\Hello-dotnet.genruntimeconfig.cache
