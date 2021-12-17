@@ -1,0 +1,15 @@
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\bin\Debug\net6.0\Datatypes.exe
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\bin\Debug\net6.0\Datatypes.deps.json
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\bin\Debug\net6.0\Datatypes.runtimeconfig.json
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\bin\Debug\net6.0\Datatypes.dll
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\bin\Debug\net6.0\ref\Datatypes.dll
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\bin\Debug\net6.0\Datatypes.pdb
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\obj\Debug\net6.0\Datatypes.csproj.AssemblyReference.cache
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\obj\Debug\net6.0\Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\obj\Debug\net6.0\Datatypes.AssemblyInfoInputs.cache
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\obj\Debug\net6.0\Datatypes.AssemblyInfo.cs
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\obj\Debug\net6.0\Datatypes.csproj.CoreCompileInputs.cache
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\obj\Debug\net6.0\Datatypes.dll
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\obj\Debug\net6.0\ref\Datatypes.dll
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\obj\Debug\net6.0\Datatypes.pdb
+C:\Sandya\Dev\Learning-Dotnet\Datatypes\obj\Debug\net6.0\Datatypes.genruntimeconfig.cache

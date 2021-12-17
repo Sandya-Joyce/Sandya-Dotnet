@@ -1,0 +1,14 @@
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\bin\Debug\net6.0\DisplayVariables.exe
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\bin\Debug\net6.0\DisplayVariables.deps.json
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\bin\Debug\net6.0\DisplayVariables.runtimeconfig.json
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\bin\Debug\net6.0\DisplayVariables.dll
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\bin\Debug\net6.0\ref\DisplayVariables.dll
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\bin\Debug\net6.0\DisplayVariables.pdb
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\obj\Debug\net6.0\DisplayVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\obj\Debug\net6.0\DisplayVariables.AssemblyInfoInputs.cache
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\obj\Debug\net6.0\DisplayVariables.AssemblyInfo.cs
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\obj\Debug\net6.0\DisplayVariables.csproj.CoreCompileInputs.cache
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\obj\Debug\net6.0\DisplayVariables.dll
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\obj\Debug\net6.0\ref\DisplayVariables.dll
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\obj\Debug\net6.0\DisplayVariables.pdb
+C:\Sandya\Dev\Learning-Dotnet\DisplayVariables\obj\Debug\net6.0\DisplayVariables.genruntimeconfig.cache

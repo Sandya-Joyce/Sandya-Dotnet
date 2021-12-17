@@ -5,7 +5,12 @@
       "ProjectGuid": "6ebfc94e-3855-4700-81f7-25061f4359f9",
       "DisplayName": "Hello-dotnet",
       "ColorIndex": 0
+    },
+    "84558951-25ea-43d1-a020-d6b28f99f14f": {
+      "ProjectGuid": "84558951-25ea-43d1-a020-d6b28f99f14f",
+      "DisplayName": "Datatypes",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
