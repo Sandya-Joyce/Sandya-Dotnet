@@ -1,0 +1,14 @@
+C:\Sandya\Dev\Operators\bin\Debug\net6.0\Operators.exe
+C:\Sandya\Dev\Operators\bin\Debug\net6.0\Operators.deps.json
+C:\Sandya\Dev\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+C:\Sandya\Dev\Operators\bin\Debug\net6.0\Operators.dll
+C:\Sandya\Dev\Operators\bin\Debug\net6.0\ref\Operators.dll
+C:\Sandya\Dev\Operators\bin\Debug\net6.0\Operators.pdb
+C:\Sandya\Dev\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandya\Dev\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+C:\Sandya\Dev\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+C:\Sandya\Dev\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+C:\Sandya\Dev\Operators\obj\Debug\net6.0\Operators.dll
+C:\Sandya\Dev\Operators\obj\Debug\net6.0\ref\Operators.dll
+C:\Sandya\Dev\Operators\obj\Debug\net6.0\Operators.pdb
+C:\Sandya\Dev\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
