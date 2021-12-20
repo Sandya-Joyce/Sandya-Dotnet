@@ -1,0 +1,15 @@
+C:\Sandya\Dev\TypeConversion\bin\Debug\net6.0\TypeConversion.exe
+C:\Sandya\Dev\TypeConversion\bin\Debug\net6.0\TypeConversion.deps.json
+C:\Sandya\Dev\TypeConversion\bin\Debug\net6.0\TypeConversion.runtimeconfig.json
+C:\Sandya\Dev\TypeConversion\bin\Debug\net6.0\TypeConversion.dll
+C:\Sandya\Dev\TypeConversion\bin\Debug\net6.0\ref\TypeConversion.dll
+C:\Sandya\Dev\TypeConversion\bin\Debug\net6.0\TypeConversion.pdb
+C:\Sandya\Dev\TypeConversion\obj\Debug\net6.0\TypeConversion.csproj.AssemblyReference.cache
+C:\Sandya\Dev\TypeConversion\obj\Debug\net6.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandya\Dev\TypeConversion\obj\Debug\net6.0\TypeConversion.AssemblyInfoInputs.cache
+C:\Sandya\Dev\TypeConversion\obj\Debug\net6.0\TypeConversion.AssemblyInfo.cs
+C:\Sandya\Dev\TypeConversion\obj\Debug\net6.0\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Sandya\Dev\TypeConversion\obj\Debug\net6.0\TypeConversion.dll
+C:\Sandya\Dev\TypeConversion\obj\Debug\net6.0\ref\TypeConversion.dll
+C:\Sandya\Dev\TypeConversion\obj\Debug\net6.0\TypeConversion.pdb
+C:\Sandya\Dev\TypeConversion\obj\Debug\net6.0\TypeConversion.genruntimeconfig.cache
