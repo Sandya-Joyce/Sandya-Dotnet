@@ -1,0 +1,15 @@
+C:\Sandya\Dev\CSharpFundamentals\bin\Debug\net6.0\CSharpFundamentals.exe
+C:\Sandya\Dev\CSharpFundamentals\bin\Debug\net6.0\CSharpFundamentals.deps.json
+C:\Sandya\Dev\CSharpFundamentals\bin\Debug\net6.0\CSharpFundamentals.runtimeconfig.json
+C:\Sandya\Dev\CSharpFundamentals\bin\Debug\net6.0\CSharpFundamentals.dll
+C:\Sandya\Dev\CSharpFundamentals\bin\Debug\net6.0\ref\CSharpFundamentals.dll
+C:\Sandya\Dev\CSharpFundamentals\bin\Debug\net6.0\CSharpFundamentals.pdb
+C:\Sandya\Dev\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandya\Dev\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Sandya\Dev\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.AssemblyInfo.cs
+C:\Sandya\Dev\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Sandya\Dev\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.dll
+C:\Sandya\Dev\CSharpFundamentals\obj\Debug\net6.0\ref\CSharpFundamentals.dll
+C:\Sandya\Dev\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.pdb
+C:\Sandya\Dev\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.genruntimeconfig.cache
+C:\Sandya\Dev\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.csproj.AssemblyReference.cache
