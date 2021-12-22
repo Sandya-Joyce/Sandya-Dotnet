@@ -1,0 +1,15 @@
+C:\Sandya\Dev\ArraysExample\bin\Debug\net6.0\ArraysExample.exe
+C:\Sandya\Dev\ArraysExample\bin\Debug\net6.0\ArraysExample.deps.json
+C:\Sandya\Dev\ArraysExample\bin\Debug\net6.0\ArraysExample.runtimeconfig.json
+C:\Sandya\Dev\ArraysExample\bin\Debug\net6.0\ArraysExample.dll
+C:\Sandya\Dev\ArraysExample\bin\Debug\net6.0\ref\ArraysExample.dll
+C:\Sandya\Dev\ArraysExample\bin\Debug\net6.0\ArraysExample.pdb
+C:\Sandya\Dev\ArraysExample\obj\Debug\net6.0\ArraysExample.csproj.AssemblyReference.cache
+C:\Sandya\Dev\ArraysExample\obj\Debug\net6.0\ArraysExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandya\Dev\ArraysExample\obj\Debug\net6.0\ArraysExample.AssemblyInfoInputs.cache
+C:\Sandya\Dev\ArraysExample\obj\Debug\net6.0\ArraysExample.AssemblyInfo.cs
+C:\Sandya\Dev\ArraysExample\obj\Debug\net6.0\ArraysExample.csproj.CoreCompileInputs.cache
+C:\Sandya\Dev\ArraysExample\obj\Debug\net6.0\ArraysExample.dll
+C:\Sandya\Dev\ArraysExample\obj\Debug\net6.0\ref\ArraysExample.dll
+C:\Sandya\Dev\ArraysExample\obj\Debug\net6.0\ArraysExample.pdb
+C:\Sandya\Dev\ArraysExample\obj\Debug\net6.0\ArraysExample.genruntimeconfig.cache
