@@ -1,0 +1,15 @@
+C:\Sandya\Dev\StringDemo\bin\Debug\net6.0\StringDemo.exe
+C:\Sandya\Dev\StringDemo\bin\Debug\net6.0\StringDemo.deps.json
+C:\Sandya\Dev\StringDemo\bin\Debug\net6.0\StringDemo.runtimeconfig.json
+C:\Sandya\Dev\StringDemo\bin\Debug\net6.0\StringDemo.dll
+C:\Sandya\Dev\StringDemo\bin\Debug\net6.0\ref\StringDemo.dll
+C:\Sandya\Dev\StringDemo\bin\Debug\net6.0\StringDemo.pdb
+C:\Sandya\Dev\StringDemo\obj\Debug\net6.0\StringDemo.csproj.AssemblyReference.cache
+C:\Sandya\Dev\StringDemo\obj\Debug\net6.0\StringDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandya\Dev\StringDemo\obj\Debug\net6.0\StringDemo.AssemblyInfoInputs.cache
+C:\Sandya\Dev\StringDemo\obj\Debug\net6.0\StringDemo.AssemblyInfo.cs
+C:\Sandya\Dev\StringDemo\obj\Debug\net6.0\StringDemo.csproj.CoreCompileInputs.cache
+C:\Sandya\Dev\StringDemo\obj\Debug\net6.0\StringDemo.dll
+C:\Sandya\Dev\StringDemo\obj\Debug\net6.0\ref\StringDemo.dll
+C:\Sandya\Dev\StringDemo\obj\Debug\net6.0\StringDemo.pdb
+C:\Sandya\Dev\StringDemo\obj\Debug\net6.0\StringDemo.genruntimeconfig.cache
