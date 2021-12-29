@@ -6,7 +6,12 @@ namespace MyConstructorExample
     {
         static void Main(string[] args)
         {
-            var customer = new Customer(1,"Sandya");
+            var customer = new Customer();
+            customer.Id = 1;
+            customer.Name = "John";
+
+            var orders = new Orders();
+            customer.Orders.Add(orders);
             Console.WriteLine(customer.Id);
             Console.WriteLine(customer.Name);
         }
