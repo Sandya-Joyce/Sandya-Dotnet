@@ -31,11 +31,16 @@ namespace ArrayMethods
                 Console.WriteLine(n);
 
             //Sort
-            Array.Sort(another);
+            Array.Sort(numbers);
             Console.WriteLine("Effect of Sort()");
             foreach (var n in numbers)
                 Console.WriteLine(n);
-
+            
+            //Reverse
+            Array.Reverse(numbers);
+            Console.WriteLine("Effect of Reverse()");
+            foreach (var n in numbers) 
+                Console.WriteLine(n);
 
 
         }
